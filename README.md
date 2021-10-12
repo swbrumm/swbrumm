@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swbrumm
 - 👀 I’m interested in HTML, CSS and Javascript
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Front-End Development
 - 📫 How to reach me ...
 
 <!---
